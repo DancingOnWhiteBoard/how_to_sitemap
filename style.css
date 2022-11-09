@@ -2,5 +2,20 @@
 
 h1{
     color:red;
+    padding: 2%;
+    background-color: blueviolet;
+    border: solid 3px;
+    border-radius: 50px;
+
     
+}
+
+h2{
+    background-color:beige ;
+    border-left: solid green;
+}
+
+p{
+    font-size: 120%;
+    background-color: darkgray;
 }
